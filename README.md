@@ -39,7 +39,7 @@ Dans un monde lointain ou deux empires lutte pour changer le monde entier à leu
 >|----------------|-------|----------|---------|------------|
 >| Nahida         |   4   |    3     |    3    |     2      |
 
->![alt text](img/sabreur.png)   
+>![alt text](img/Sabreur.png)   
 > Acheron "Guerrière de l'éternité"
 >
 > Légende vivante connu de tous et celle que l'on considére de bien de nombreux titre , quiquonque s'attaquera à Danma se retrouvera sous le jugement divin de sa lame.
