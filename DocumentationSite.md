@@ -1,5 +1,3 @@
-# Hero's Of Nazuma
-
 # 1.Contexte 
 
 ### Genre : Rpg/Stratégie tour par tour
