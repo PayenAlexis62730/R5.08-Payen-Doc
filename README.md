@@ -12,7 +12,7 @@
 
 ### Intrigue : Quels sont les événements principaux du scénario ?
 
-Dans un monde lointain ou deux empires lutte pour changer le monde entier à leur façon, l'empire Danma qui veut faire régner le monde par l'ordre et la discipline et à l'oposée l'empire Amnésia qui veut faire régner le monde par l'auto justice et le libre arbitre de chacun, le jour 36 du calendrier de Gallaghante en l'an 850 après l'apocalypse de Miruku aura lieu l'ultim bataille entre les 2 empires et leurs armées pour décider enfin de qui va écrire l'histoire du monde et rentrée dans la légende.
+Dans un monde lointain ou deux empires lutte pour changer le monde entier à leur façon, l'empire Danma qui veut faire régner le monde par l'ordre et la discipline et à l'oposée l'empire Amnésia qui veut faire régner le monde par l'auto justice et le libre arbitre de chacun, le jour 36 du calendrier de Gallaghante en l'an 850 après l'apocalypse de Miruku aura lieu l'ultime bataille entre les 2 empires et leurs armées pour décider enfin de qui va écrire l'histoire du monde et rentrée dans la légende.
 
 ![alt text](img/Menu.jpeg)
 
